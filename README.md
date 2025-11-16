@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Building and experimenting with embedded systems, robotics projects, motor drivers, sensor-based automation, and real-time control systems.<br>Electronics projects involving microcontrollers (Arduino, ESP32), robotics, IoT systems, PCB design, and hardware prototyping.<br>Improving reliability in embedded circuits, optimizing motor control systems, advanced PCB design techniques, and better debugging methods for mixed-signal hardware.<br>Practical IoT system design, Hardware and Software integration through real time.<br>Arduino, ESP32, motor drivers (L298N, BTS7960, TB6612FNG), robotics, sensors, circuit design, line follower logic, soldering hacks, and hardware troubleshooting.<br>I often build things that move, blink, or beep — and I love debugging hardware more than actually finishing the project 😄.🔭 I’m currently working on<br>
+Building and experimenting with embedded systems, robotics projects, motor drivers, sensor-based automation, and real-time control systems.<br>Electronics projects involving microcontrollers (Arduino, ESP32), robotics, IoT systems, PCB design, and hardware prototyping.<br>Improving reliability in embedded circuits, optimizing motor control systems, advanced PCB design techniques, and better debugging methods for mixed-signal hardware.<br>Practical IoT system design, Hardware and Software integration through real time.<br>Arduino, ESP32, motor drivers, robotics, sensors, circuit design, line follower logic, soldering hacks, and hardware troubleshooting.<br>I often build things that move, blink, or beep — and I love debugging hardware more than actually finishing the project 😄.🔭 I’m currently working on<br>
 
 
 ## 🌐 Socials:
